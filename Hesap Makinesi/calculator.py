@@ -3,7 +3,7 @@ import tkinter as tk
 pencere = tk.Tk()
 pencere.title("Sabfodel's Calculator")
 
-bg = tk.PhotoImage(file=r"C:\Users\sabri\OneDrive\Masaüstü\hesap.png")
+bg = tk.PhotoImage(file=r"")
 
 background_label = tk.Label(pencere, image=bg)
 background_label.place(x=0, y=0, relwidth=1, relheight=1)
